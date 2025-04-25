@@ -1,6 +1,10 @@
 [
     {
         "username": "admin",
+        "message": "Hello, I am doing very well today, just felt like sharing this here"
+    },
+    {
+        "username": "admin",
         "message": "It works now"
     },
     {
